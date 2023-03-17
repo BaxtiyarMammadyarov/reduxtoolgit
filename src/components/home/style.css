@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+
+.home{
+   width: 90%;
+   margin: auto;
+}

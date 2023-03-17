@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+.main-card{
+    
+    margin: 2px;
+}
+
+.div-img{
+    width: 80%;
+}
+.div-img img{
+    width: 200px;
+    height: 200px;
+}
